@@ -3,3 +3,7 @@ Crime_Dataset_Coursework1-1.csv
 .ipynb_checkpoints/
 /data
 /reports
+/*.md
+/*.txt
+/*.png
+settings.json
